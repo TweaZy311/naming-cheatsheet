@@ -1,4 +1,4 @@
-Clone Branch 1 hahaha edit 1 clone 
+Clone Branch 1 hehehe edit 2 clone 
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
